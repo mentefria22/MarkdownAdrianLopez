@@ -1,0 +1,26 @@
+5. Observa aquests dos fragments que guarden exactament la mateixa informació sobre
+tasques quotidianes:
+Opció A (XML):
+<tasques>
+<tasca estat="completada">
+<descripcio>Posar aigua a bullir</descripcio>
+</tasca>
+<tasca estat="pendent">
+<descripcio>Coure els fideus 3 minuts</descripcio>
+</tasca>
+</tasques>
+-3 -
+RA1-PR2-Markdown
+Opció B (Markdown):
+- [x] Posar aigua a bullir
+- [ ] Coure els fideus 3 minuts
+a) Quina de les dues opcions és més ràpida d'escriure i més fàcil de llegir per a un
+humà quan s'obre el fitxer en un editor de text pla sense cap visor?
+
+Markdown, és molt més senzill de reconèixer les dades guardades, potser si hi hagués molta més informació seria millor XML però amb poqueta informació com aquest cas és molt millor Markdown.
+
+b) Si l'Opció B és tan simple, per quina raó un sistema informàtic o una base de dades
+preferiria rebria/processar la informació en format XML (Opció A) quan s'envien dades
+entre servidors?
+
+Perquè l'ordinador no pensa igual que un ésser humà, l'ordinador amb les etiquetes i atributs pot processar molta informació ràpidament i de forma automàtica.

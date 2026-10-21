@@ -1,0 +1,3 @@
+6. Per què creus que Markdown és l'estàndard dels README.md a GitHub?
+
+Jo imagino que perquè és el més senzill per principiants, el més senzill de llegir almenys, molt més clar i sense tantes complicacions.

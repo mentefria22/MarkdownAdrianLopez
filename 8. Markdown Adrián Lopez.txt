@@ -1,0 +1,10 @@
+8. Raona quin format (XML o Markdown) utilitzaries en cadascun d'aquests dos casos
+reals de DAM/DAW:
+Cas 1: Vols escriure els apunts d'un mòdul o la guia d'instal·lació del teu
+projecte perquè la llegeixin els teus companys de classe.
+Cas 2: Vols crear un fitxer de configuració on una aplicació hagi de llegir les
+dades dels usuaris de forma estructurada.
+
+Per al cas 1 òbviament he escollit Markdown, per estudiar el millor és que tot el contingut quedi clar, senzill i ben estructurat, el que en XML em faria explotar el cap per tantes etiquetes i atributs.
+
+Per al cas 2 he escollit XML perquè un ordinador no entenc de la mateixa forma que jo i per un ordinador és molt millor processar l'informació en format d'etiquetes i atributs per poder treballar quasi de forma automàtica, en cas de Markdown es podria també, però no funcionaria tant bé.

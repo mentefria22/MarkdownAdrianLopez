@@ -1,0 +1,6 @@
+7.Imagina que estàs buscant una llibreria de codi a GitHub per al teu projecte. Quins
+beneficis té per a tu com a desenvolupador/a trobar la documentació en un fitxer
+README.md ben estructurat directament a la portada del repositori en lloc d'un fitxer
+adjunt en PDF o un document XML?
+
+Primer de tot i el més important, perquè és molt més fàcil de llegir, sense haver de descarregar res, un altre punt molt positiu és que es pot actualitzar constantment sense haver d'esborrar i descarregar res, també és molt fàcil de compartir amb altres col·laboradors.
