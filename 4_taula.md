@@ -1,8 +1,5 @@
 
-# Pressupost per muntar un PC de programació i gaming 🎮
-
-Aquesta és la meva proposta per muntar un PC potent, ideal per programar, jugar i fer diverses tasques alhora.
-
+# Pressupost per muntar un PC de programació i gaming 
 | Component | Model | Preu |
 |:---|:---|---:|
 | Processador | AMD Ryzen 7 7800X3D | 389,99 € |
