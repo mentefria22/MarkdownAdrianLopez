@@ -5,7 +5,7 @@
 
 La sèrie d'animació basada en *League of Legends* és **molt espectacular**.
 
-M'ha encantat l'estil d'animació *steampunk* i la banda sonora, sobretot la cançó principal d'*Imagine Dragons*.
+M'ha encantat l'estil d'animació *steampunk* i la banda sonora, sobretot la **cançó principal** d'*Imagine Dragons*.
 
 ## Tràiler oficial
 
