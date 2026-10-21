@@ -1,7 +1,7 @@
 
 # Documentació del Bot de Discord
 
-![Logotip de Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80b0c7a6f0e3c20f6b5_discord-logo.svg)
+![Logotipo de Discord](https://img.magnific.com/vector-premium/discordia-logotipo-moderno_578229-177.jpg?semt=ais_hybrid&w=740&q=80)
 
 Pots registrar la teva aplicació al [Portal de Desenvolupadors de Discord](https://discord.com/developers/applications).
 
