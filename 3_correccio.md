@@ -18,4 +18,5 @@ M'ha encantat l'estil d'animació *steampunk* i la banda sonora, sobretot la can
 - Caitlyn
 - Viktor
 - Ekko
+- Jayce
 - Heimerdinger
